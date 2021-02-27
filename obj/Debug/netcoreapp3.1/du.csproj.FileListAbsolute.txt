@@ -1,0 +1,39 @@
+/media/danilososa98/DATA/du/bin/Debug/netcoreapp3.1/du
+/media/danilososa98/DATA/du/bin/Debug/netcoreapp3.1/du.deps.json
+/media/danilososa98/DATA/du/bin/Debug/netcoreapp3.1/du.runtimeconfig.json
+/media/danilososa98/DATA/du/bin/Debug/netcoreapp3.1/du.runtimeconfig.dev.json
+/media/danilososa98/DATA/du/bin/Debug/netcoreapp3.1/du.dll
+/media/danilososa98/DATA/du/bin/Debug/netcoreapp3.1/du.pdb
+/media/danilososa98/DATA/du/obj/Debug/netcoreapp3.1/du.csprojAssemblyReference.cache
+/media/danilososa98/DATA/du/obj/Debug/netcoreapp3.1/du.AssemblyInfoInputs.cache
+/media/danilososa98/DATA/du/obj/Debug/netcoreapp3.1/du.AssemblyInfo.cs
+/media/danilososa98/DATA/du/obj/Debug/netcoreapp3.1/du.csproj.CoreCompileInputs.cache
+/media/danilososa98/DATA/du/obj/Debug/netcoreapp3.1/du.dll
+/media/danilososa98/DATA/du/obj/Debug/netcoreapp3.1/du.pdb
+/media/danilososa98/DATA/du/obj/Debug/netcoreapp3.1/du.genruntimeconfig.cache
+D:\du\bin\Debug\netcoreapp3.1\du.exe
+D:\du\bin\Debug\netcoreapp3.1\du.deps.json
+D:\du\bin\Debug\netcoreapp3.1\du.runtimeconfig.json
+D:\du\bin\Debug\netcoreapp3.1\du.runtimeconfig.dev.json
+D:\du\bin\Debug\netcoreapp3.1\du.dll
+D:\du\bin\Debug\netcoreapp3.1\du.pdb
+D:\du\obj\Debug\netcoreapp3.1\du.csprojAssemblyReference.cache
+D:\du\obj\Debug\netcoreapp3.1\du.csproj.CoreCompileInputs.cache
+D:\du\obj\Debug\netcoreapp3.1\du.AssemblyInfoInputs.cache
+D:\du\obj\Debug\netcoreapp3.1\du.AssemblyInfo.cs
+D:\du\obj\Debug\netcoreapp3.1\du.dll
+D:\du\obj\Debug\netcoreapp3.1\du.pdb
+D:\du\obj\Debug\netcoreapp3.1\du.genruntimeconfig.cache
+C:\Users\Danilo Sosa\Documents\C# Files\du\bin\Debug\netcoreapp3.1\du.exe
+C:\Users\Danilo Sosa\Documents\C# Files\du\bin\Debug\netcoreapp3.1\du.deps.json
+C:\Users\Danilo Sosa\Documents\C# Files\du\bin\Debug\netcoreapp3.1\du.runtimeconfig.json
+C:\Users\Danilo Sosa\Documents\C# Files\du\bin\Debug\netcoreapp3.1\du.runtimeconfig.dev.json
+C:\Users\Danilo Sosa\Documents\C# Files\du\bin\Debug\netcoreapp3.1\du.dll
+C:\Users\Danilo Sosa\Documents\C# Files\du\bin\Debug\netcoreapp3.1\du.pdb
+C:\Users\Danilo Sosa\Documents\C# Files\du\obj\Debug\netcoreapp3.1\du.csprojAssemblyReference.cache
+C:\Users\Danilo Sosa\Documents\C# Files\du\obj\Debug\netcoreapp3.1\du.csproj.CoreCompileInputs.cache
+C:\Users\Danilo Sosa\Documents\C# Files\du\obj\Debug\netcoreapp3.1\du.AssemblyInfoInputs.cache
+C:\Users\Danilo Sosa\Documents\C# Files\du\obj\Debug\netcoreapp3.1\du.AssemblyInfo.cs
+C:\Users\Danilo Sosa\Documents\C# Files\du\obj\Debug\netcoreapp3.1\du.dll
+C:\Users\Danilo Sosa\Documents\C# Files\du\obj\Debug\netcoreapp3.1\du.pdb
+C:\Users\Danilo Sosa\Documents\C# Files\du\obj\Debug\netcoreapp3.1\du.genruntimeconfig.cache
